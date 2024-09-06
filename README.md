@@ -60,8 +60,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deveshsainii&" alt="deveshsainii" /></p>
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/deveshsainii"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="deveshsainii" /></a><a href="https://ko-fi.com/deveshsainii"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="deveshsainii" /></a></p><br><br>
