@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=1000&color=36BCF7&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Devesh+Saini;Data+Engineer+%7C+India;Always+Learning+%7C+Always+Optimizing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=1000&color=36BCF7&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Devesh+Saini;DevOps+%7C+SRE+%7C+Cloud+Engineer;Always+Learning+%7C+Always+Automating" />
 </p>
 
 <p align="center">
@@ -21,12 +21,12 @@
 <!-- About -->
 <h2 align="center">🚀 About Me</h2>
 <p align="center">
-  🔭 Data Pipeline Automation (NLP + Big Data)<br>
-  🌱 Learning: Apache Spark • Airflow • Advanced Data Modeling<br>
-  👯 Open to: ETL/ELT • Cloud Data Integration • ML Projects<br>
-  🤝 Connect for: Data Architecture • Analytics • Workflow Automation<br>
+  🔭 Building & automating scalable Cloud Infrastructure (AWS / Azure)<br>
+  🌱 Learning: Kubernetes • Terraform • Site Reliability Engineering practices<br>
+  👯 Open to: DevOps • SRE • Cloud Infrastructure • Platform Engineering roles<br>
+  🤝 Connect for: CI/CD Pipelines • Infrastructure as Code • Observability & Monitoring<br>
   📝 Writes at  <a href="https://deveshsaini.in/blog">deveshsaini.in/blog</a> <br>
-  ⚡ Fun fact: I love optimizing queries & workflows for speed!
+  ⚡ Fun fact: I love automating anything I have to do more than once!
 </p>
 
 ---
@@ -35,7 +35,7 @@
 <h2 align="center">📂 My Work</h2>
 <p align="center">
   <a href="https://deveshsaini.in/">🌐 Portfolio Website</a> |
-  <a href="https://deveshsaini.in/blog">📰 Data Engineering Blog</a> |
+  <a href="https://deveshsaini.in/blog">📰 DevOps & Cloud Blog</a> |
   <a href="https://deveshsaini.in/resume">📄 My Resume</a>
 </p>
 
@@ -44,22 +44,24 @@
 <!-- Tech Stack -->
 <h2 align="center">🛠️ Languages & Tools</h2>
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/apachespark.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/apacheairflow.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tableau.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/powerbi.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/pandas.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/numpy.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original-wordmark.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original-wordmark.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/argo.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/helm.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/prometheus.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/grafana.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nginx.svg" height="40"/>
 </p>
 
 ---
