@@ -1,115 +1,185 @@
-<!-- Profile Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=1000&color=36BCF7&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Devesh+Saini;DevOps+%7C+SRE+%7C+Cloud+Engineer;Always+Learning+%7C+Always+Automating" />
+<div align="center">
+
+# 👋 Hey, I'm Devesh Saini
+
+### Site Reliability Engineer • Cloud • DevOps • Platform Engineering
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Building+Reliable+Cloud+Infrastructure;AWS+%7C+Kubernetes+%7C+Terraform;Automating+Everything;Always+Learning+Something+New" />
+
+<p>
+<a href="https://deveshsaini.in">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
+
+<a href="https://github.com/DeveshSaini">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://www.linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+</a>
+
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=deveshsainii&label=Profile+views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-  <a href="https://twitter.com/deveshsainii" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/deveshsainii?logo=twitter&style=for-the-badge" alt="Twitter" />
-  </a>
-  <a href="https://linkedin.com/in/deveshsainii" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:contact@deveshsaini.in" target="_blank">
-    <img src="https://img.shields.io/badge/Email-contact%40deveshsaini.in-red?style=for-the-badge"/>
-  </a>
-</p>
+</div>
 
 ---
 
-<!-- About -->
-<h2 align="center">🚀 About Me</h2>
-<p align="center">
-  🔭 Building & automating scalable Cloud Infrastructure (AWS / Azure)<br>
-  🌱 Learning: Kubernetes • Terraform • Site Reliability Engineering practices<br>
-  👯 Open to: DevOps • SRE • Cloud Infrastructure • Platform Engineering roles<br>
-  🤝 Connect for: CI/CD Pipelines • Infrastructure as Code • Observability & Monitoring<br>
-  📝 Writes at  <a href="https://deveshsaini.in/blog">deveshsaini.in/blog</a> <br>
-  ⚡ Fun fact: I love automating anything I have to do more than once!
-</p>
+# 🚀 About Me
+
+```bash
+$ whoami
+```
+
+```yaml
+name: Devesh Saini
+
+role:
+  Site Reliability Engineer
+
+focus:
+  - Cloud Engineering
+  - DevOps
+  - Platform Engineering
+  - Automation
+  - Infrastructure as Code
+
+currently_learning:
+  - Kubernetes
+  - Platform Engineering
+  - Go
+  - Rust
+
+interests:
+  - AWS
+  - Linux
+  - Docker
+  - Terraform
+  - GitHub Actions
+  - Monitoring
+```
 
 ---
 
-<!-- Projects and Blog -->
-<h2 align="center">📂 My Work</h2>
-<p align="center">
-  <a href="https://deveshsaini.in/">🌐 Portfolio Website</a> |
-  <a href="https://deveshsaini.in/blog">📰 DevOps & Cloud Blog</a> |
-  <a href="https://deveshsaini.in/resume">📄 My Resume</a>
-</p>
+# ⚡ Tech Stack
+
+## Cloud
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 
 ---
 
-<!-- Tech Stack -->
-<h2 align="center">🛠️ Languages & Tools</h2>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original-wordmark.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original-wordmark.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/argo.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/helm.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/prometheus.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/grafana.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nginx.svg" height="40"/>
-</p>
+## Containers
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
 
 ---
 
-<!-- Github Stats -->
-<h2 align="center">📈 Github Stats</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=deveshsainii&theme=onestar&margin-w=10&no-bg=true&row=1" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=deveshsainii&show_icons=true&theme=transparent" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deveshsainii&show_icons=true&locale=en&layout=compact&theme=transparent" alt="langs" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deveshsainii&theme=transparent" alt="streak" />
-</p>
+## DevOps
+
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform)
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-<!-- Connect with me -->
-<h2 align="center">🌐 Connect with Me</h2>
-<p align="center">
-  <a href="https://linkedin.com/in/deveshsainii">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="28"/>
-  </a>
-  <a href="https://twitter.com/deveshsainii">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="28"/>
-  </a>
-  <a href="https://stackoverflow.com/users/deveshsainii">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="28"/>
-  </a>
-  <a href="https://medium.com/@deveshsainii">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="28"/>
-  </a>
-  <a href="https://www.youtube.com/c/deveshsainii">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="28"/>
-  </a>
-</p>
+## Languages
+
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 
 ---
 
-<!-- Support Me -->
-<h3 align="center">☕ Support Me</h3>
-<p align="center">
-  <a href="https://www.buymeacoffee.com/deveshsainii"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40"/></a>
-  <a href="https://ko-fi.com/deveshsainii"><img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40"/></a>
-</p>
+# 📊 GitHub Statistics
 
-<br/>
+![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
 
-<!-- Animated Snake -->
-<p align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+# 🔥 Current Projects
+
+🚀 GitQuest
+
+> Learn Git like Duolingo.
+
+---
+
+🛠 DevOps Toolkit
+
+> Modern SSH, Docker, Kubernetes & Cloud Dashboard.
+
+---
+
+🌐 Personal Portfolio
+
+> Production-inspired developer portfolio.
+
+---
+
+# 📚 Latest Blog
+
+- AWS
+- Kubernetes
+- Docker
+- DevOps
+- Cloud
+- Terraform
+
+Read more →
+
+👉 https://deveshsaini.in
+
+---
+
+# 💡 Engineering Philosophy
+
+```text
+✔ Reliability First
+
+✔ Automate Everything
+
+✔ Infrastructure as Code
+
+✔ Monitor Before Failure
+
+✔ Security by Default
+
+✔ Keep Learning
+```
+
+---
+
+# 🐍 Contribution Graph
+
+![](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+# ☕ Fun Facts
+
+- ⚡ Linux Enthusiast
+- ☁️ AWS Explorer
+- 🐳 Docker Fan
+- 📦 Loves Automation
+- 🚀 Always Building Something
+
+---
+
+<div align="center">
+
+### Let's Build Reliable Systems Together 🚀
+
+⭐ Thanks for visiting my profile!
+
+</div>
